@@ -1,5 +1,5 @@
 # 🤖 MARK XXXIX-OR (39)
-### The Ultimate Cross-Platform Personal AI Assistant
+### The Ultimate Cross-Platform Personal AI Assistant - By Sunny
 
 A real-time voice AI that can hear, see, understand, and control your computer — on any OS. Supporting Windows, macOS, and Linux. Local execution. Zero subscriptions. Engineered for total autonomy.
 
